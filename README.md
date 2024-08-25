@@ -1,0 +1,2 @@
+# bookr
+Learning Django
